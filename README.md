@@ -4,6 +4,11 @@ Implementation of Structural Calculus and Semantic-State Contraction (SSC) appli
 
 > **Structural Calculus and Semantic-State Contraction: Toward Deterministic Multi-Scale Physical Computation**  
 > Yoon A Limsuwan
+> https://doi.org/10.5281/zenodo.19814975
+>
+> *A Rigorous Applied Framework for Resolving Seven Canonical Challenges via Deterministic Semantic-State and Structural Calculus**  
+> Yoon A Limsuwan
+> https://doi.org/10.5281/zenodo.19869633
 
 ## Sections Implemented
 
@@ -83,10 +88,10 @@ RG interpretation:
 ## Citation
 
 ```bibtex
-@article{limsuwan2024ssc,
+@article{limsuwan2026ssc,
   title={Structural Calculus and Semantic-State Contraction:
          Toward Deterministic Multi-Scale Physical Computation},
   author={Limsuwan, Yoon A},
-  year={2024}
+  year={2026}
 }
 ```
