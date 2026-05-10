@@ -85,6 +85,55 @@ RG interpretation:
   τ_∞ = BTW universality class fixed point
 ```
 
+L = 300
+
+Simulating alpha=1.5 ...
+    [Warmup] Step 25000/150000 | Elapsed: 0.9 mins
+    [Warmup] Step 50000/150000 | Elapsed: 2.4 mins
+    [Warmup] Step 75000/150000 | Elapsed: 3.9 mins
+    [Recording] Step 100000/150000 | Elapsed: 5.4 mins
+    [Recording] Step 125000/150000 | Elapsed: 6.9 mins
+  ↳ Result for alpha=1.5: τ = 1.9014 (Calculated from 18024 events, Time: 8.4 mins)
+
+Simulating alpha=2.0 ...
+    [Warmup] Step 25000/150000 | Elapsed: 1.0 mins
+    [Warmup] Step 50000/150000 | Elapsed: 2.9 mins
+    [Warmup] Step 75000/150000 | Elapsed: 4.8 mins
+    [Recording] Step 100000/150000 | Elapsed: 6.8 mins
+    [Recording] Step 125000/150000 | Elapsed: 8.9 mins
+  ↳ Result for alpha=2.0: τ = 1.7145 (Calculated from 20151 events, Time: 10.9 mins)
+
+Simulating alpha=3.0 ...
+    [Warmup] Step 25000/150000 | Elapsed: 2.6 mins
+    [Warmup] Step 50000/150000 | Elapsed: 8.3 mins
+    [Warmup] Step 75000/150000 | Elapsed: 14.2 mins
+    [Recording] Step 100000/150000 | Elapsed: 19.9 mins
+    [Recording] Step 125000/150000 | Elapsed: 25.5 mins
+  ↳ Result for alpha=3.0: τ = 1.4508 (Calculated from 26702 events, Time: 31.1 mins)
+
+Simulating alpha=5.0 ...
+    [Warmup] Step 25000/150000 | Elapsed: 3.09 mins
+    [Warmup] Step 50000/150000 | Elapsed: 31.96 mins
+    [Warmup] Step 75000/150000 | Elapsed: 60.58 mins
+    [Recording] Step 100000/150000 | Elapsed: 88.65 mins
+    [Recording] Step 125000/150000 | Elapsed: 116.58 mins
+    [Auto-Save] Data saved to results/avalanches_alpha_5.0.csv
+  ↳ Result for alpha=5.0: τ = 1.2420 (Events: 37616, Time: 145.17 mins)
+
+
+Simulating alpha=10.0 ...
+    [Warmup] Step 25000/150000 | Elapsed: 1.58 mins
+    [Warmup] Step 50000/150000 | Elapsed: 45.19 mins
+    [Warmup] Step 75000/150000 | Elapsed: 90.62 mins
+    [Recording] Step 100000/150000 | Elapsed: 135.03 mins
+    [Recording] Step 125000/150000 | Elapsed: 179.00 mins
+    [Auto-Save] Data saved to results/avalanches_alpha_10.0.csv
+  ↳ Result for alpha=10.0: τ = 1.2411 (Events: 40963, Time: 223.55 mins)
+
+
+==================================================
+
+
 ## Citation
 
 ```bibtex
