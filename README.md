@@ -130,6 +130,100 @@ Simulating alpha=10.0 ...
     [Auto-Save] Data saved to results/avalanches_alpha_10.0.csv
   ↳ Result for alpha=10.0: τ = 1.2411 (Events: 40963, Time: 223.55 mins)
 
+L = 512
+
+Simulating alpha = 1.50
+Starting new simulation
+[Warmup] Step 10000/150000 | Elapsed = 0.13 mins
+[Warmup] Step 20000/150000 | Elapsed = 0.28 mins
+[Warmup] Step 30000/150000 | Elapsed = 0.43 mins
+[Warmup] Step 40000/150000 | Elapsed = 0.59 mins
+[Warmup] Step 50000/150000 | Elapsed = 0.74 mins
+[Warmup] Step 60000/150000 | Elapsed = 0.97 mins
+[Warmup] Step 70000/150000 | Elapsed = 1.24 mins
+[Warmup] Step 80000/150000 | Elapsed = 1.54 mins
+[Warmup] Step 90000/150000 | Elapsed = 1.83 mins
+[Recording] Step 100000/150000 | Elapsed = 2.17 mins
+[Recording] Step 110000/150000 | Elapsed = 2.49 mins
+[Recording] Step 120000/150000 | Elapsed = 2.84 mins
+[Recording] Step 130000/150000 | Elapsed = 3.17 mins
+[Recording] Step 140000/150000 | Elapsed = 3.52 mins
+
+------------------------------------------------------------
+ alpha = 1.50 | tau = 1.91534
+⏱ Runtime = 3.85 mins
+
+Simulating alpha = 2.00
+Starting new simulation
+[Warmup] Step 10000/150000 | Elapsed = 0.14 mins
+[Warmup] Step 20000/150000 | Elapsed = 0.29 mins
+[Warmup] Step 30000/150000 | Elapsed = 0.44 mins
+[Warmup] Step 40000/150000 | Elapsed = 0.60 mins
+[Warmup] Step 50000/150000 | Elapsed = 0.79 mins
+[Warmup] Step 60000/150000 | Elapsed = 1.09 mins
+[Warmup] Step 70000/150000 | Elapsed = 1.48 mins
+[Warmup] Step 80000/150000 | Elapsed = 1.88 mins
+[Warmup] Step 90000/150000 | Elapsed = 2.31 mins
+[Recording] Step 100000/150000 | Elapsed = 2.75 mins
+[Recording] Step 110000/150000 | Elapsed = 3.18 mins
+[Recording] Step 120000/150000 | Elapsed = 3.66 mins
+[Recording] Step 130000/150000 | Elapsed = 4.11 mins
+[Recording] Step 140000/150000 | Elapsed = 4.57 mins
+
+------------------------------------------------------------
+alpha = 2.00 | tau = 1.70724
+⏱ Runtime = 5.04 mins
+
+Simulating alpha=3.0 on Grid 512x512 ...
+    Starting a new simulation...
+    [Warmup] Step 10000/150000 | Elapsed (this run): 0.22 mins
+    [Warmup] Step 20000/150000 | Elapsed (this run): 0.38 mins
+    [Warmup] Step 30000/150000 | Elapsed (this run): 0.55 mins
+    [Warmup] Step 40000/150000 | Elapsed (this run): 0.78 mins
+    [Warmup] Step 50000/150000 | Elapsed (this run): 1.22 mins
+    [Warmup] Step 60000/150000 | Elapsed (this run): 2.72 mins
+    [Warmup] Step 70000/150000 | Elapsed (this run): 4.29 mins
+    [Warmup] Step 80000/150000 | Elapsed (this run): 5.84 mins
+    [Warmup] Step 90000/150000 | Elapsed (this run): 7.39 mins
+    [Recording] Step 100000/150000 | Elapsed (this run): 8.94 mins
+    [Recording] Step 110000/150000 | Elapsed (this run): 10.51 mins
+    [Recording] Step 120000/150000 | Elapsed (this run): 12.10 mins
+    [Recording] Step 130000/150000 | Elapsed (this run): 13.61 mins
+    [Recording] Step 140000/150000 | Elapsed (this run): 15.17 mins
+  ↳ Result for alpha=3.0: τ = 1.4409 (Run Time: 16.77 mins)
+
+Simulating alpha=5.0 on Grid 512x512 ...
+    [Warmup] Step 5000/150000 | Elapsed: 0.15 mins
+    [Warmup] Step 10000/150000 | Elapsed: 0.22 mins
+    [Warmup] Step 15000/150000 | Elapsed: 0.30 mins
+    [Warmup] Step 20000/150000 | Elapsed: 0.40 mins
+    [Warmup] Step 25000/150000 | Elapsed: 0.50 mins
+    [Warmup] Step 30000/150000 | Elapsed: 0.62 mins
+    [Warmup] Step 35000/150000 | Elapsed: 0.76 mins
+    [Warmup] Step 40000/150000 | Elapsed: 0.91 mins
+    [Warmup] Step 45000/150000 | Elapsed: 1.09 mins
+    [Warmup] Step 50000/150000 | Elapsed: 1.32 mins
+    [Warmup] Step 55000/150000 | Elapsed: 1.61 mins
+    [Warmup] Step 60000/150000 | Elapsed: 2.02 mins
+    [Warmup] Step 65000/150000 | Elapsed: 2.66 mins
+    [Warmup] Step 70000/150000 | Elapsed: 5.97 mins
+    [Warmup] Step 75000/150000 | Elapsed: 16.37 mins
+    [Warmup] Step 80000/150000 | Elapsed: 27.87 mins
+    [Warmup] Step 85000/150000 | Elapsed: 38.47 mins
+    [Warmup] Step 90000/150000 | Elapsed: 49.56 mins
+    [Warmup] Step 95000/150000 | Elapsed: 60.70 mins
+    [Recording] Step 100000/150000 | Elapsed: 71.41 mins
+    [Recording] Step 105000/150000 | Elapsed: 82.28 mins
+    [Recording] Step 110000/150000 | Elapsed: 93.32 mins
+    [Recording] Step 115000/150000 | Elapsed: 103.95 mins
+    [Recording] Step 120000/150000 | Elapsed: 115.13 mins
+    [Recording] Step 125000/150000 | Elapsed: 126.58 mins
+    [Recording] Step 130000/150000 | Elapsed: 137.75 mins
+    [Recording] Step 135000/150000 | Elapsed: 149.07 mins
+    [Recording] Step 140000/150000 | Elapsed: 160.13 mins
+    [Recording] Step 145000/150000 | Elapsed: 171.27 mins
+    [Auto-Save] Data saved to results/avalanches_alpha_5.0.csv
+  ↳ Result for alpha=5.0: τ = 1.2239 (Events: 37943, Time: 182.16 mins)
 
 ==================================================
 
