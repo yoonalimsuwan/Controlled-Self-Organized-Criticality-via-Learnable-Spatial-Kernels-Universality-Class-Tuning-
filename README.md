@@ -8,11 +8,11 @@
 Implementation of Structural Calculus and Semantic-State Contraction (SSC) applied to Self-Organized Criticality (SOC), from the paper:
 
 > **Structural Calculus and Semantic-State Contraction: Toward Deterministic Multi-Scale Physical Computation**  
-> Yoon A Limsuwan
+> PAI , Yoon A Limsuwan
 > https://doi.org/10.5281/zenodo.19814975
 >
 > *A Rigorous Applied Framework for Resolving Seven Canonical Challenges via Deterministic Semantic-State and Structural Calculus**  
-> Yoon A Limsuwan
+> PAI , Yoon A Limsuwan
 > https://doi.org/10.5281/zenodo.19869633
 
 ## Sections Implemented
@@ -453,7 +453,7 @@ Simulating alpha=5.0 on Grid 512x512 ...
 @article{limsuwan2026ssc,
   title={Structural Calculus and Semantic-State Contraction:
          Toward Deterministic Multi-Scale Physical Computation},
-  author={Limsuwan, Yoon A},
+  author={PAI AND Limsuwan, Yoon A},
   year={2026}
 }
 ```
